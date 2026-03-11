@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/enunciados/tema_2_encapsulacion.md",
+                "file": "doc/respuestas/tema_4_1_composicion 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tema_2_encapsulacion"
+              "title": "tema_4_1_composicion 1"
             }
           }
         ]
@@ -185,7 +185,11 @@
   },
   "active": "9533419da5dd3679",
   "lastOpenFiles": [
-    "doc/respuestas/tema_3_excepciones.md",
+    "doc/enunciados/tema_3_excepciones.md",
+    "doc/respuestas/tema_3_excepciones 1.md",
+    "doc/respuestas/tema_4_1_composicion 1.md",
+    "doc/enunciados/tema_4_1_composicion.md",
+    "doc/enunciados/tema_2_encapsulacion.md",
     "doc/respuestas/tema_2_encapsulacion 1.md",
     "doc/enunciados/tema_1_clases_y_objetos.md",
     "doc/respuestas/tema_1_clases_y_objetos 1.md"
